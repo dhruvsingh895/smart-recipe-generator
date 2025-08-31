@@ -1,29 +1,46 @@
 # 🍳 Smart Recipe Generator
 
-Smart Recipe Generator is a web app that suggests recipes based on the ingredients you provide.  
-You can type ingredients manually, upload an image (mock image recognition), and apply filters like **dietary preference** and **difficulty**.  
+**Smart Recipe Generator** is a user-friendly web application that helps you create delicious recipes based on the ingredients you have. Designed with a sleek dark-gradient interface, it allows filtering by dietary preference, cooking time, and more.
+
+## Features
+
+- **Ingredient-Based Search**: Enter ingredients you have and find matching recipes instantly.  
+- **Search by Recipe Name**: Quickly find a recipe by typing its name.  
+- **Filters**: Filter recipes by dietary preference (vegetarian, vegan, gluten-free) and cooking time.  
+- **Sort Options**: Sort recipes by cooking time, difficulty, or calories.  
+- **Favorites**: Save your favorite recipes with a ❤️ (stored in localStorage).  
+- **Random Recipe**: Get a surprise recipe suggestion for “What should I cook today?”  
+- **Clear Filters**: Reset all filters quickly with one click.  
+
+## Demo Links
+
+- [Smart Recipe Generator - Vercel 1](https://smart-recipe-generator-phi.vercel.app)  
+- [Smart Recipe Generator - Vercel 2](https://smart-recipe-generator-git-main-2k22aiml2212190-7670s-projects.vercel.app)  
+- [Smart Recipe Generator - Vercel 3](https://smart-recipe-generator-h98jhr2it-2k22aiml2212190-7670s-projects.vercel.app)  
+
+## GitHub Repository
+
+- [View on GitHub](https://github.com/dhruvsingh895/smart-recipe-generator)
+
+## Technologies Used
+
+- **HTML5** for semantic structure  
+- **CSS3** with dark-gradient theme for polished UI  
+- **JavaScript** for interactivity and dynamic recipe generation  
+- **LocalStorage** to save favorite recipes  
+
+## How to Use
+
+1. Enter your available ingredients in the input box or click common ingredients.  
+2. Apply dietary or cooking time filters as needed.  
+3. Click **Generate Recipes** to see matching recipes.  
+4. Save favorites by clicking the ❤️ icon.  
+5. Use the random recipe button for inspiration.  
+
+## Deployment
+
+The project is hosted on **Vercel** and is publicly accessible via the links above.
 
 ---
 
-## 🚀 Features
-- Add ingredients manually
-- Upload ingredient images (mock recognition)
-- Apply filters (Vegetarian, Vegan, Gluten-Free, Easy/Medium/Hard)
-- Get recipe suggestions with steps & nutrition
-- Save recipes to favorites (basic mock)
-
----
-
-## 🛠️ Tech Stack
-- **HTML5**  
-- **CSS3 (Responsive, Modern UI)**  
-- **JavaScript (Vanilla JS, No Frameworks)**  
-
----
-
-## 📂 Project Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/smart-recipe-generator.git
-   cd smart-recipe-generator
+**Enjoy cooking with Smart Recipe Generator!**
